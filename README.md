@@ -1,6 +1,6 @@
 # Responsive Navbar Layout
 
-## [Live @]()
+## [Live @](https://react-responsive-navbar-proj-04.vercel.app/)
 
 ## 📋 Overview
 
@@ -59,7 +59,7 @@ src/
 
 #### 1.Clone the repository
 ```
-git clone https://github.com/your-username/navbar-layout-react.git
+git clone https://github.com/Aromalpriyan/React---Responsive-Navbar-Proj-04
 ```
 #### 2.Navigate to the project directory
 ```
